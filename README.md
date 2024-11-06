@@ -7,4 +7,4 @@ In the future I have a few more projects in mind...
 * Python websockets
 * PowerShell deployment tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmonidaescale&layout=donut&theme=vue)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmonidaescale&layout=donut&theme=vue)]()
