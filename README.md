@@ -5,3 +5,5 @@ In the future I have a few more projects in mind...
 *Embedded ESP32 development with C++
 *Python websockets
 *PowerShell deployment tools
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmonidaescale)](https://github.com/anuraghazra/github-readme-stats)
